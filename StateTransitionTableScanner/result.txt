@@ -1,0 +1,13 @@
+/Users/johndemirci/Downloads/UmitDemirciLab5/cmake-build-debug/scanner ../table.txt ../input.txt
+1 2 3 4 5 6 7 8 e a
+1 a a a a a a a a a
+2 2 a a a a a a 9 a
+a a a a a a a a a a
+a a a a a a a a a a
+a a a a a a a a a a
+a a a a a a a a a a
+a a a a a a a a a a
+a a a a a a a a a a
+f0
+
+Process finished with exit code 0
